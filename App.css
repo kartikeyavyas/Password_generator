@@ -1,0 +1,92 @@
+*{
+  background-color: black;
+}
+
+.hed{
+  color: white;
+  position: absolute;
+  top: 5%;
+  left: 35%;
+}
+
+input{
+  width: 785px;
+  background-color:white;
+  position: absolute;
+  top: 21%;
+  left: 21%;
+  padding: 15px;
+  font-size: 1.5rem;
+  color: orange;
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  border-radius: 25px;
+}
+
+.btn{
+  width: 108px;
+  position: absolute;
+  left: 70rem;
+  top: 21%;
+  padding:15px;
+  font-size: 1.3rem;
+  border-radius: 25px;
+  color:white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: blue;
+}
+
+.btn:hover{
+  background-color: rgb(3, 96, 127);
+}
+
+.range{
+  width: 201px;
+  position: absolute;
+  top: 35%;
+  border: 1.5rem solid red;
+  cursor: pointer;
+}
+
+.lab1{
+  position: absolute;
+  top: 39%;
+  left: 37rem;
+  font-size: 1.5rem;
+  color: orange;
+}
+
+.chbox{
+ position: absolute;
+ top: 45%;
+ left: 25rem;
+ padding: 85px;
+ cursor: pointer;
+}
+
+.lab2{
+  position: absolute;
+  top: 43%;
+  left: 51rem;
+  font-size: 1.5rem;
+  color: orange;
+}
+
+.chbox1{
+  position: absolute;
+  top: 41%;
+  left: 37rem;
+  padding: 85px;
+  cursor: pointer;
+ }
+
+ .lab3{
+  position: absolute;
+  top: 39%;
+  left: 63rem;
+  font-size: 1.5rem;
+  color: orange;
+}
